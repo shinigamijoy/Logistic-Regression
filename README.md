@@ -1,2 +1,2 @@
-# Logistic Regression
+# logistic regression
  Logistic Regression in Python
